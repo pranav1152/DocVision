@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DocVision</string>
+    <string name="brightness">Brightness</string>
+    <string name="zero">0</string>
+    <string name="original">Original</string>
+    <string name="grey">Grey</string>
+    <string name="b_w"><![CDATA[B&W]]></string>
+    <string name="b_w2"><![CDATA[B&W2]]></string>
+    <string name="ocr">OCR</string>
+    <string name="rotate_anticlockwise">Rotate AntiClockwise</string>
+    <string name="rotate_clockwise">Rotate Clockwise</string>
+    <string name="save_image">Save Image</string>
+</resources>
