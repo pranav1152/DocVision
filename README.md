@@ -7,12 +7,12 @@ We have successfully implemented DocVision app which will help to generate PDF f
 
 ## HIGH LEVEL DESIGN
 <p align="center">
-<img src="https://github.com/pranav1152/DocVision/blob/main/Images/HIGHLEVEL DESIGN.png" width="600" height="300">
+<img src="https://github.com/pranav1152/DocVision/blob/main/Images/High_Level_Design.png" width="600" height="300">
 </p>
 
 ## USE CASE DIAGRAM
 <p align="center">
-<img src="https://github.com/pranav1152/DocVision/blob/main/Images/USECASEDIAGRAM.png" width="600" height="400">
+<img src="https://github.com/pranav1152/DocVision/blob/main/Images/Use_Case_Diagram.png" width="600" height="400">
 </p>
 
 ## SCREENSHOTS
