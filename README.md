@@ -10,6 +10,11 @@ We have successfully implemented DocVision app which will help to generate PDF f
 <img src="https://github.com/pranav1152/DocVision/blob/main/Images/Use_Case_Diagram.png" width="600" height="400">
 </p>
 
+## API CALLS
+<p align="center">
+<img src="https://github.com/pranav1152/DocVision/blob/main/Images/API_Calls.png" width="800" height="400">
+</p>
+
 ## SCREENSHOTS
 <p align="center">
 <img src="https://github.com/pranav1152/DocVision/blob/main/Images/ScreenShot1.png" height="300"> &nbsp; &nbsp; &nbsp;<img src="https://github.com/pranav1152/DocVision/blob/main/Images/ScreenShot2.png" height="300"> &nbsp; &nbsp; &nbsp;   <img src="https://github.com/pranav1152/DocVision/blob/main/Images/ScreenShot3.png" height="300">;
