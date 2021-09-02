@@ -5,11 +5,6 @@ Since the Government of India has banned some of the Chinese apps like Camscanne
 ## THE SOLUTION
 We have successfully implemented DocVision app which will help to generate PDF from images. We have added some basic image processing like thresholding, color space conversions, etc. We have also added OCR (Optical Character Recognition) which will detect text from images. We have used Tesseract OCR for the same. We have also built a FLASK server to do heavy work like recognizing text, dealing with larger image sizes.
 
-## HIGH LEVEL DESIGN
-<p align="center">
-<img src="https://github.com/pranav1152/DocVision/blob/main/Images/High_Level_Design.png" width="600" height="300">
-</p>
-
 ## USE CASE DIAGRAM
 <p align="center">
 <img src="https://github.com/pranav1152/DocVision/blob/main/Images/Use_Case_Diagram.png" width="600" height="400">
